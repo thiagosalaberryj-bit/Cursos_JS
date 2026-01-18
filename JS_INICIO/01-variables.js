@@ -1,4 +1,4 @@
-//var es un tipo de variable que se puede llamar y modiificar su vallr en cualquier parte del codigo
+//var es un tipo de variable que se puede llamar y modiificar su vallr en cualquier parte del codigo 
 
 var nombre = "Juan";
 console.log(nombre);    

@@ -1,4 +1,4 @@
-/*Console log sirve para poder escribir en la teminal o cosola del 
+/*Console log sirve para poder escribir en la teminal o cosola del  
 navegador, ya sean datos, variables o cadenas de texto*/
 
 //cadena de texto

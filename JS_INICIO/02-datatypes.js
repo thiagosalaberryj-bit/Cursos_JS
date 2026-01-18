@@ -1,4 +1,4 @@
-//String = cadena de texto
+//String = cadena de texto 
 let name = "Thiago"
 
 // Numeros

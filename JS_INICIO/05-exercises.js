@@ -1,4 +1,4 @@
-// 1️⃣ Operaciones aritméticas
+// 1️⃣ Operaciones aritméticas 
 let suma = 10 + 5;
 let resta = 10 - 5;
 let multiplicacion = 10 * 5;
